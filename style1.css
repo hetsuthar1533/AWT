@@ -8,14 +8,14 @@ font-size: large;
 padding: 17px;
 }
 .container{
-    background-color: #f2f2f2f2;
+    background-color: #5c576859;
     padding: 5px 20px 15px 20px;
     border: 1px solid gray;
     border-radius: 5px;
 }
 input[type="text"],
 input[type="email"],
-input[type="number"],
+input[type="number"],   
 input[type="password"],
 input[type="date"],
 select,
@@ -35,7 +35,7 @@ fieldset{
     text-align: center;
 }
 input[type="submit"] {
-    background-color: #4daea1;
+    background-color: #4cafa2;
     color: white;
     padding: 12px 20px;
     border: none;
